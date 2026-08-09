@@ -1,6 +1,30 @@
 # Hi, I'm Nikita Tiwari 👋
 
 🎓 Bachelor of Technology in Computer Science Engineering from DAV University, Jalandhar
+📊 Aspiring Data Analyst | Data Scientist
+🚀 Passionate about solving real-world business problems using Data, ML & AI
+
+## 💡 About Me
+
+- Strong analytical skills in Python, SQL, Power BI, Excel, Statistics, Machine Learning, and Deep Learning
+- Experienced in data cleaning, exploratory data analysis, dashboard creation, and predictive modeling
+- Enjoy transforming raw data into meaningful insights that help solve business problems
+- Actively building real-world data science and ML projects using real datasets
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+Python | C++ | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Excel | Power BI
+
+**AI/ML:**
+Machine Learning | Deep Learning | NLP
+
+
+
+
+# Hi, I'm Nikita Tiwari 👋
+
+🎓 Bachelor of Technology in Computer Science Engineering from DAV University, Jalandhar
 
 **Aspiring Data Analyst | Data Scientist**
 
