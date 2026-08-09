@@ -6,7 +6,7 @@
 
 🚀 Passionate about solving real-world business problems using Data, ML & AI
 
-Strong Analytical skills in python, SQL, Power BI, MS Excel ,Statistics,  Machine Learning, Deep Learning
+📝 Strong Analytical skills in python, SQL, Power BI, MS Excel ,Statistics,  Machine Learning, Deep Learning
 
 
 ## 💡 About Me
