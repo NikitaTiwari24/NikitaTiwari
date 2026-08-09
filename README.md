@@ -1,5 +1,7 @@
 # Hi, I'm Nikita Tiwari 👋
+
 🎓 Bachelor of Technology in Computer Science Engineering from DAV University, Jalandhar
+
 **Aspiring Data Analyst | Data Scientist**
 
 Passionate about solving real-world business problems using Data, ML & AI
@@ -23,6 +25,7 @@ AI/ML: Machine Learning | Deep Learning | NLP
 📫 You can to reach me out through my
 
 Email :- nikitaatiwari2411@gmail.com
+
 LinkedIn :- www.linkedin.com/in/Nikita Tiwari
 
 
