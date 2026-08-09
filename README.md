@@ -8,10 +8,10 @@
 
 ## 💡 About Me
 
-- Strong analytical skills in Python, SQL, Power BI, Excel, Statistics, Machine Learning, and Deep Learning
+- I have worked on projects involving data cleaning, exploratory data analysis, dashboard creation, and predictive modeling using real-world datasets. 
 - Experienced in data cleaning, exploratory data analysis, dashboard creation, and predictive modeling
 - Enjoy transforming raw data into meaningful insights that help solve business problems
-- Actively building real-world data science and ML projects using real datasets
+- I enjoy transforming raw data into meaningful insights that help solve business problems.
 
 ## 🛠️ Tech Stack
 
