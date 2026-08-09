@@ -1,7 +1,9 @@
 # Hi, I'm Nikita Tiwari 👋
 
 🎓 Bachelor of Technology in Computer Science Engineering from DAV University, Jalandhar
+
 📊 Aspiring Data Analyst | Data Scientist
+
 🚀 Passionate about solving real-world business problems using Data, ML & AI
 
 ## 💡 About Me
