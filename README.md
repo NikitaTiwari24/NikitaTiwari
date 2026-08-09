@@ -2,7 +2,9 @@
 🎓 Bachelor of Technology in Computer Science Engineering from DAV University, Jalandhar
 
 **Aspiring Data Analyst | Data Scientist**
+
 Passionate about solving real-world business problems using Data, ML & AI
+
 Strong Analytical skills in python, SQL, Power BI, MS Excel ,Statistics,  Machine Learning, Deep Learning
 
 
