@@ -4,7 +4,6 @@
 
 **Aspiring Data Analyst | Data Scientist**  
 Passionate about solving real-world business problems using Data, ML & AI
-
 Strong analytical skills in Python, SQL, Power BI, MS Excel, Statistics, Machine Learning, and Deep Learning.
 
 ## About Me
@@ -33,11 +32,13 @@ Passionate about solving real-world business problems using Data, ML & AI
 Strong Analytical skills in python, SQL, Power BI, MS Excel ,Statistics,  Machine Learning, Deep Learning
 
 
-About Me:
+## About Me:
+
 I have worked on projects involving data cleaning, exploratory data analysis, dashboard creation, and predictive modeling using real-world datasets. 
+
 I enjoy transforming raw data into meaningful insights that help solve business problems.
 
-🛠️ Skills:
+## 🛠️ Skills:
 
 Languages & Tools : python | C++ | My SQL | Pandas | Numpy | Matplotlib | Seaborn | Excel | Power BI 
 
