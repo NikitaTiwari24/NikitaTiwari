@@ -26,7 +26,7 @@ Machine Learning | Deep Learning | NLP
 
 Email :- nikitaatiwari2411@gmail.com
 
-LinkedIn :- www.linkedin.com/in/NikitaTiwari
+LinkedIn :- www.linkedin.com/in/Nikta Tiwari
 
 
 
